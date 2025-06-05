@@ -118,7 +118,8 @@
                     <option value="JEE Main">JEE Main Preparation</option>
                     <option value="JEE Advanced">JEE Advanced Preparation</option>
                     <option value="NEET">NEET Preparation</option>
-                    <option value="Foundation (8th-10th)">Foundation Program (Class 8th-10th)</option>
+                    <option value="Foundation (1st-8th)">Foundation Program (Class 1st-8th)</option>
+                    <option value="Foundation (9th-12th)">Foundation Program (Class 9th-12th)</option>
                     <option value="Other Competitive Exams">Other Competitive Exams Preparation</option>
                 </select>
             </div>
