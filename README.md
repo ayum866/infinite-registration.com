@@ -30,7 +30,7 @@
         <h2 class="text-3xl sm:text-4xl font-extrabold text-center text-gray-800 mb-8 sm:mb-10 leading-tight">
             <span class="text-blue-600">INFINITE STUDY</span><br>Admission Registration
         </h2>
-        <form action="#" method="POST" class="space-y-6 sm:space-y-8">
+        <form action="https://formsubmit.co/mamlax592@gmail.com" method="POST">
             <!-- Student Information -->
             <div>
                 <label for="fullName" class="block text-sm sm:text-base font-semibold text-gray-700 mb-2">Full Name (as per official records):</label>
@@ -53,12 +53,12 @@
                         <label for="male" class="ml-2 block text-base text-gray-700">Male</label>
                     </div>
                     <div class="flex items-center">
-                        <input type="radio" id="female" name="gender" value="female"
+                        <input type="radio" id="female" name="gender" value="female" required
                                class="focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300 rounded-full cursor-pointer">
                         <label for="female" class="ml-2 block text-base text-gray-700">Female</label>
                     </div>
                     <div class="flex items-center">
-                        <input type="radio" id="other" name="gender" value="other"
+                        <input type="radio" id="other" name="gender" value="other" required
                                class="focus:ring-blue-500 h-4 w-4 text-blue-600 border-gray-300 rounded-full cursor-pointer">
                         <label for="other" class="ml-2 block text-base text-gray-700">Other</label>
                     </div>
@@ -140,7 +140,7 @@
           
 <div>
                 <label for="howHear" class="block text-sm sm:text-base font-semibold text-gray-700 mb-2">How did you hear about INFINITE STUDY?</label>
-                <select id="howHear" name="howHear"
+                <select id="howHear" name="howHear" required
                         class="mt-1 block w-full px-4 py-2 sm:py-3 border border-gray-300 rounded-lg shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-base transition duration-200 ease-in-out">
                     <option value="">Select an Option</option>
                     <option value="Friends/Family">Friends/Family</option>
