@@ -159,7 +159,7 @@
                 </button>
             </div>
             <p class="text-xs sm:text-sm text-gray-500 text-center mt-6">
-                **Note:** This is a sample form. For a real application, you'll need backend processing (e.g., using PHP, Node.js, Python) to save this data.
+                @ All Copyright Reserved 2025 .
             </p>
         </form>
     </div>
